@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Aware logo: minimalist shining third eye" width="160">
+</p>
+
 # Aware
 
 ## Purpose
